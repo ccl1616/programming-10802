@@ -1,3 +1,4 @@
+// using doubly circular linked list to solve
 #include <stdio.h>
 #include <stdlib.h>
 typedef struct _Node{
